@@ -1,0 +1,73 @@
+h1{
+	text-align: center;
+	color: #EAEAEA;
+	font-weight: bolder;
+background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(45,45,45,1) 11%, rgba(0,0,0,1) 50%, rgba(45,45,45,1) 89%, rgba(0,0,0,1) 100%);
+	font-size: 65px;
+	margin: 0px;
+	font-family: Georgia;
+}
+h3{
+	text-align: center;
+	color: white;
+	font-weight: bolder;
+background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(45,45,45,1) 11%, rgba(0,0,0,1) 50%, rgba(45,45,45,1) 89%, rgba(0,0,0,1) 100%);
+	color: #EAEAEA;
+	margin: 0px;
+	margin-bottom: 5px;
+	font-family: Georgia;
+	border-width: 0px 0px 2px 0px;
+	border-style: groove;
+	border-color: #BBBBBB;
+}
+.modal-title{
+	color: black;
+	text-align: center;
+}
+.modal-body{
+	color: black;
+	font-family: Cordia;
+	font-size: 24px;
+	text-align: left;
+}
+.card-title{
+	color: #C3C3C3;
+}
+.card-text{
+	color: #C3C3C3;
+}
+#carouselExampleControls{
+	padding: 6px;
+	margin: 25px;
+	background-color: #D1D1D1;
+	box-shadow: 10px 11px 33px 0px rgba(0,0,0,0.28);
+	display: block;
+	margin: auto;
+}
+.container{
+	background-color: #5A5A5A;
+	padding: 15px;
+
+}
+body{
+background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(90,90,90,1) 10%, rgba(90,90,90,1) 90%, rgba(0,0,0,1) 100%);
+}
+#cardbox{
+	padding: 6px;
+	margin: 20px;
+	box-shadow: 10px 11px 33px 0px rgba(0,0,0,0.28);
+}
+
+.card-deck{
+	background-color: #505050;
+box-shadow: 0px 12px 33px -8px rgba(0,0,0,0.32);
+}
+.text-muted{
+ cursor: pointer;
+}
+#dropdownMenuButton{
+ cursor: pointer;
+}
