@@ -75,7 +75,7 @@ document.onkeydown = function(e) {
   }
 
   	if (keystring == 841) {
-  	alert("Congratulation! Now you can some melody.")
+  	alert("Congratulation! you have unlocked the mystery in this page!.")
   	limit = 0;
   	keystring = 0;
   	}
@@ -90,3 +90,13 @@ document.onkeydown = function(e) {
   	}
 
 };
+
+
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+
